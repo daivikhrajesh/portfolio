@@ -7,7 +7,7 @@ const About = () => {
             <div className="flex flex-col justify-center lg:flex-row lg:justify-evenly">
                 <div className="my-12 flex flex-col items-start">
                     <h1 className="text-6xl">Hi, I'm Daivikh Rajesh!</h1>
-                    <h2 className="text-4xl text-gray-700">More about Me</h2>
+                    <h2 className="text-4xl text-gray-700">About Me</h2>
                     <p className="text-lg my-4">
                         I've always been interested and enjoyed working on things that could use my creativity and problem-solving skills. I'm experienced in full-stack web development, python programming, and data visualization. From hackathons to brain-computer interfaces, my journey is all about tech and fun! Please feel free to check them out in my personal projects below.
                     </p>
@@ -23,7 +23,7 @@ const About = () => {
                 <div className="flex justify-center lg:justify-end">
                     {/* <HeaderRight /> */}
                     {/* adda a hero image */}
-                    <img src="/Webpage-img-1.png" alt="Hero Image" />
+                    <img src={process.env.PUBLIC_URL + '/Webpage-img-1.png'} alt="Hero Image" />
                 </div>
             </div>
 
