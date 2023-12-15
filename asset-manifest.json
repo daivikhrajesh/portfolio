@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3bb56689.chunk.css",
+    "main.js": "/portfolio/static/js/main.75a3c306.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.75a3c306.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.4eb52fc4.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.4eb52fc4.js.map",
+    "static/js/2.a0def176.chunk.js": "/portfolio/static/js/2.a0def176.chunk.js",
+    "static/js/2.a0def176.chunk.js.map": "/portfolio/static/js/2.a0def176.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.407893919441934337fda227ccf67c2e.js": "/portfolio/precache-manifest.407893919441934337fda227ccf67c2e.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.3bb56689.chunk.css.map": "/portfolio/static/css/main.3bb56689.chunk.css.map",
+    "static/js/2.a0def176.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a0def176.chunk.js.LICENSE.txt",
+    "static/media/github.svg": "/portfolio/static/media/github.cb6d04df.svg",
+    "static/media/linkedin2.svg": "/portfolio/static/media/linkedin2.b79805d5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eb52fc4.js",
+    "static/js/2.a0def176.chunk.js",
+    "static/css/main.3bb56689.chunk.css",
+    "static/js/main.75a3c306.chunk.js"
+  ]
+}
